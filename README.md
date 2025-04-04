@@ -42,4 +42,4 @@ This project explores demographic factors influencing the Brexit vote using stat
 
 **Surapot Nonpassopon**  
 MSc Data Science and Analytics – University of Leeds  
-[GitHub Portfolio](https://github.com/surapotnon)
+[GitHub Portfolio](https://github.com/surapotsrp)
